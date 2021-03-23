@@ -1,0 +1,8 @@
+This is a file that I have created. isn't it beautiful?
+It has all sorts of fun stuff in it. Like
+1. A list
+2. Special characters -!@#$!$%%^^&%
+3. A tribute to Go - "Go Gophers!"
+4. Empty lines
+
+There is all sorts of things in this file!
